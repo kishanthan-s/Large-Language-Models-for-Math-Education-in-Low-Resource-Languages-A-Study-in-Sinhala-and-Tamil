@@ -95,7 +95,7 @@ Please use the following BibTeX citation:
 }
 ```
 
-Paper: [https://arxiv.org/abs/2602.14517](https://arxiv.org/abs/2602.14517)
+
 
 ## License
 
